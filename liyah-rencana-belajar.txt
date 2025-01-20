@@ -7,3 +7,5 @@ RENCANA BELAJAR LIYAH
 - Website
 - membuat aplikasi
   * mobile
+- Basis data
+- cyber security
