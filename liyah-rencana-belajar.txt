@@ -1,8 +1,8 @@
 RENCANA BELAJAR LIYAH
 
 - Bahasa pemrograman
-  * Python
   * Html
 - UI/UX
 - Web desain
 - Website
+- membuat aplikasi
