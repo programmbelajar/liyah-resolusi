@@ -1,1 +1,1 @@
-# liyah-resolusi
+# study-resolusi
