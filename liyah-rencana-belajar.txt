@@ -6,3 +6,4 @@ RENCANA BELAJAR LIYAH
 - Web desain
 - Website
 - membuat aplikasi
+  * mobile
