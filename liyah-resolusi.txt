@@ -3,4 +3,4 @@ LIYAH RESOLUSI
 - konsisten untuk belajar membuat sebuah website
 - membuat sebuah website 
 - konsisten untuk belajar tentang basis data
-- menjadi cyber security
+- membuat aplikasi
