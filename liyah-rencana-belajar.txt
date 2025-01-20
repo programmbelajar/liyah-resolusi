@@ -6,3 +6,5 @@ RENCANA BELAJAR LIYAH
 - UI/UX
 - Web desain
 - Website
+- membuat aplikasi
+  * mobile
